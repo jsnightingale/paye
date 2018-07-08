@@ -1,0 +1,22 @@
+{
+  "name": "paye",
+  "version": "1.0.0",
+  "description": "An application to calculate paye for residents in New Zealand",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsnightingale/paye.git"
+  },
+  "keywords": [
+    "paye"
+  ],
+  "author": "Jackson Nightingale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsnightingale/paye/issues"
+  },
+  "homepage": "https://github.com/jsnightingale/paye#readme"
+}
